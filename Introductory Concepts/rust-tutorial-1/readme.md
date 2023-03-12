@@ -1,4 +1,4 @@
-# Rust Tutorial 1/9
+# Rust Tutorial 1 - Introduction to Rust Programming
 
 ## Concepts
 * rust files sufix: .rs
